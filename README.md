@@ -104,8 +104,8 @@ if (nivel === 'normal') {
 ---
 
 ## Como Jogar?
---Abra o arquivo index.html em um navegador.
---Escolha o nível de dificuldade através da URL:
+- Abra o arquivo index.html em um navegador.
+- Escolha o nível de dificuldade através da URL:
   - ?normal
   - ?dificil
   - ?hard
